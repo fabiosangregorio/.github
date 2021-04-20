@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-<!-- By submitting an Issue to this repository, you agree to the terms within the [Auth0 Code of Conduct](https://github.com/auth0/open-source-template/blob/master/CODE-OF-CONDUCT.md). -->
+<!-- By submitting an Issue to this repository, you agree to the terms within the [Auth0 Code of Conduct](https://github.com/fabiosangregorio/.github/blob/main/.github/CODE-OF-CONDUCT.md). -->
 
 ### Describe the problem you'd like to have solved
 
